@@ -4,7 +4,7 @@
 
 ## Q：如何安装
 
-请查看INSTALL.md进行安装
+[请查看INSTALL.md进行安装](https://github.com/Bistu-OSSDT-2024/31-Docx_AI_Assistant/blob/main/INSTALL.md)
 ## Q：本软件适用于什么文档，是否支持doc？
 
 很抱歉，本程序只支持.docx文档使用😗，因为本产品使用了第三方库*python-docx*
