@@ -38,12 +38,12 @@ def summarize_from_docx(content):
     )
     return response.choices[0].message.content
 # 改进建议
-def summarize_from_docx(content):
+def summarize2_from_docx(content):
     client = ZhipuAI(api_key="73f54cc77008aa76975c51b196a1ab2e.80TZQ64Msp8ujxGQ")
     messages = [
         {"role": "user",
-         "content": "为下面的文档写出改动的，不要输出任何别的东西,直接输出结果"},
-        {"role": "assistant", "content": "当然，请给出你的文本"},
+         "content": "为下面的文档写出改进建议"},
+        {"role": "assistant", "content": "当然，请给出你的文档"},
         {"role": "user", "content": content}
     ]
     response = client.chat.completions.create(
@@ -91,10 +91,10 @@ def main(input_path, output_path, mode):
             if para != "":
                 combined_paragraph += para.text + '\n'
                 if count_words_in_paragraph(combined_paragraph) > 3000:
-                    result = summarize_from_docx(combined_paragraph)
+                    result = summarize2_from_docx(combined_paragraph)
                     show_improvement_suggestion(result)  # 调用新的函数来显示结果
                     combined_paragraph = ""
-        result = summarize_from_docx(combined_paragraph)
+        result = summarize2_from_docx(combined_paragraph)
         show_improvement_suggestion(result)  # 显示剩余部分的结果
     corrected_doc.save(output_path)
     print(f"{mode}完成，结果保存在 {output_path}")
