@@ -65,3 +65,4 @@ pip install ttkthemes
  - 在下面**管理**右侧选择**COM加载项**，点击**转到**
  - 删除WordAddIn
  - 重启MSWord
+<br>
