@@ -1,0 +1,16 @@
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.dll
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.pdb
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.xml
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.dll.manifest
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\WordAddIn2.vsto
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.vbproj.AssemblyReference.cache
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.Ribbon1.resources
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.Resources.resources
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.vbproj.GenerateResource.cache
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.vbproj.CoreCompileInputs.cache
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.vbproj.Up2Date
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.dll
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.xml
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\obj\Debug\WordAddIn2.pdb
+C:\Users\zhens\source\repos\WordAddIn2\WordAddIn2\bin\Debug\main.exe
