@@ -7,11 +7,15 @@
 <img alt="l" src="https://img.shields.io/badge/License-Apache2.0-orange">
 <br>
 <img alt="p" src="https://img.shields.io/badge/platform-Windows-purple">
+
+
 </div>
 
 
 <div align="left">
-
+ 
+# 如果安装使用出现问题，可以查看[FAQ](https://github.com/Bistu-OSSDT-2024/31-Docx_AI_Assistant/blob/main/FAQ.md)与[安装教程](https://github.com/Bistu-OSSDT-2024/31-Docx_AI_Assistant/blob/main/INSTALL.md)
+ 
 # 安装方法
 ## 1.office插件版
  (1)前往release页面寻找最新的版本
@@ -28,3 +32,12 @@
 <br>
 # 声明
 本软件开源，仅供学习交流使用。
+<br>
+## 制作人员
+<div align="center">
+<a href="https://github.com/Bistu-OSSDT-2024/31-Docx_AI_ASsistant/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Bistu-OSSDT-2024/31-Docx_AI_ASsistant" />
+</a>
+<br>
+ovo
+</div>
