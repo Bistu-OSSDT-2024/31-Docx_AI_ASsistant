@@ -11,7 +11,9 @@
 
 
 <div align="left">
-
+ 
+# 如果安装使用出现问题，可以查看[FAQ](https://github.com/Bistu-OSSDT-2024/31-Docx_AI_Assistant/blob/main/FAQ.md)与[安装教程](https://github.com/Bistu-OSSDT-2024/31-Docx_AI_Assistant/blob/main/INSTALL.md)
+ 
 # 安装方法
 ## 1.office插件版
  (1)前往release页面寻找最新的版本
